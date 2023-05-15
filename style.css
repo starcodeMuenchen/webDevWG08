@@ -7,7 +7,7 @@ h1 {
 }
 
 h1 {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif,
 }
 
 p {
@@ -45,7 +45,7 @@ p {
 p {
   text-decoration-thickness: 3px;
 }
-.Fahrrad
+.Fahrrad{font-family: Arial, Helvetica, sans-serif,}
 
 .hobbies-text {
   background-color: grey;
