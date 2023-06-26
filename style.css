@@ -1,1 +1,126 @@
+/* ============================= */
+/* ===== Allgemeine Styles ===== */
+/* ============================= */
 
+/* Dein Code */
+
+/* ======================================= */
+/* ===== Section 1: Navigationszeile ===== */
+/* ======================================= */
+
+/* Dein Code */
+
+/* ================================ */
+/* ===== Section 2: Überblick ===== */
+/* ================================ */
+
+/* Dein Code */
+.section-style-2 {
+    background-color: #ee99d2;
+    color: rgb(14, 9, 12);
+  }
+  .grosser-titel {
+    font-size: 60px;
+    font-weight: bold;
+  }
+  .kleiner-titel {
+    font-size: 30px;
+  }
+  .app-bild {
+    width: 80%;
+    border-radius: 5%;
+    transform: rotate(15deg);
+  }
+  .app-picture {
+   margin-left: 90%;
+  }
+  .app-cool {
+    width: 60%;
+    border-radius: 5%;
+    transform: rotate(220deg);
+  }
+  #überblick {
+    padding: 10%;
+  }
+  
+  .überblick-links {
+    padding-top: 10%;
+  }
+  
+  .btn {
+    margin: 10% 0;
+  }
+
+/* =============================== */
+/* ===== Section 3: Features ===== */
+/* =============================== */
+
+/* Dein Code */
+.section-style-1{
+  background-color: #ede9d5;
+  color: rgb(248, 3, 3);
+}
+
+.feature-box{
+  padding: 5%;
+}
+
+.kleiner-titel2{
+font-size: 50px;
+}
+.kleiner-titel3{
+  margin-left: 90%;
+}
+.Text{
+font-size: 23px;
+}
+
+.Text2{
+  font-size: 15px;
+}
+
+.Text3{
+  font-size: 10px;
+}
+
+.icon{
+  color: rgb(248, 3, 3);
+  margin-bottom: 10%;
+}
+
+.icon:hover {
+  color: #ee99d2;
+}
+
+/* ================================== */
+/* ===== Section 4: Bewertungen ===== */
+/* ================================== */
+
+/* Dein Code */
+.section-style-3 {
+  background-color: #ee99d2;
+}
+#bewertung{
+  padding: 5%;
+}
+.bewertung-text{
+font-size: 40px;
+margin: 0 10%;
+}
+.benutzer-bild {
+  width: 10%;
+  border-radius: 100%;
+  margin: 2%;
+}
+
+/* ============================= */
+/* ===== Section 5: Preise ===== */
+/* ============================= */
+
+/* Dein Code */
+
+/* ============================= */
+/* ===== Section 6: Footer ===== */
+/* ============================= */
+
+/* Dein Code */
