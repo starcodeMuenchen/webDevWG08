@@ -9,7 +9,10 @@
 /* ======================================= */
 
 /* Dein Code */
-
+#navbar {
+  padding: 0 10%;
+  background-color: #ee99d2;
+}
 /* ================================ */
 /* ===== Section 2: Überblick ===== */
 /* ================================ */
@@ -32,7 +35,7 @@
     transform: rotate(15deg);
   }
   .app-picture {
-   margin-left: 90%;
+   padding-left: 90%;
   }
   .app-cool {
     width: 60%;
@@ -50,7 +53,9 @@
   .btn {
     margin: 10% 0;
   }
-
+  #preise {
+    padding: 5% 15%;
+  }
 /* =============================== */
 /* ===== Section 3: Features ===== */
 /* =============================== */
@@ -112,15 +117,23 @@ margin: 0 10%;
   border-radius: 100%;
   margin: 2%;
 }
-
 /* ============================= */
 /* ===== Section 5: Preise ===== */
 /* ============================= */
 
 /* Dein Code */
-
+#preise {
+  padding: 5% 15%;
+}
 /* ============================= */
 /* ===== Section 6: Footer ===== */
 /* ============================= */
 
 /* Dein Code */
+#footer {
+  padding: 5% 5%;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
